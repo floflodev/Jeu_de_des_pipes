@@ -1,4 +1,5 @@
-# D'abord j'ai créee un jeu de dés simple sans tricherie 
+# Version 1
+# Objectif : créer un jeu de dés simple sans tricherie 
 
 # Importe la bibliotheque random pour pouvoir avoir une selection aléatoire
 import random 
