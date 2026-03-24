@@ -28,19 +28,16 @@ else :
 # Version 2 avec modulo :
 # Meme base que la version précédente
 import random
-
 j1 = input("Joueur 1 quel est ton prénom ?")
 j2 = input("Joueur 2 quel est ton prénom ?")
 
 des1 = random.randint(1, 6)
 print(j1, "fait", des1)
-
 # Simule un lancés de dés pour le joueur 2
 des2 = random.randint(1, 6)
 # Créer une boucle qui relance le dés tant que le nombre est pair
 while des2 % 2 == 0:  
     des2 = random.randint(1, 6)
-
 print(j2, "fait", des2)
 
 if des1 > des2:
