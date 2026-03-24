@@ -12,4 +12,12 @@ Puis, ajouter diverses manieres de tricher au cours de différentes versions :
   - Version 2 : dés impair :
     - Le dés d'un des joueurs ne peut etre pair
   - Version 3 : probabilitée modifiée :
-    - Le dés d'un des joueurs a plus de chances de faire un petit resultat          
+    - Le dés d'un des joueurs a plus de chances de faire un petit resultat
+
+### Compétences mises en avant :
+- Boucles
+- Conditions 
+- Gestion de l’aléatoire et probabilités (random)
+- Manipulation de listes et sélection avec critères
+- Interaction utilisateur 
+- Création de variantes d’un même programme
