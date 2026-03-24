@@ -15,13 +15,13 @@ print(j1, "fait", des1)
 des2 = random.randint(1,6)
 print(j2, "fait", des2)
 
-# Compare les deux lancés et anonce le joueur 1 gagnant si le des1 est superieur a des2 
+# Compare les deux lancés et annonce le joueur 1 gagnant si le des1 est superieur a des2 
 if des1 > des2 :
     print(j1, "gagne")
 # Compare les deux lancés et annonce une égalité si les deux des sont égaux
 elif des1 == des2 :
     print("Egalité")
-# Annonce le joueur 2 gagne si les deux conditions précedentes ne sont pas respectées
+# Annonce le joueur 2 gagnant si les deux conditions précedentes ne sont pas respectées
 else : 
     print(j2, "gagne")
 
