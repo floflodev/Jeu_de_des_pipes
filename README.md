@@ -6,9 +6,10 @@ Le but était de créer un simple jeu de dés avec comme parametres :
 - Chacun lancant 1 des composés de 6 faces
   
 Puis, ajouter diverses manieres de tricher au cours de différentes versions :
-  - Version dés tronqué :
+
+  - Version 1 : dés tronqué :
     - Le dés d'un des joueurs ne peut dépasser 3
-  - Version dés impair :
+  - Version 2 : dés impair :
     - Le dés d'un des joueurs ne peut etre pair
-  - Version probabilitées modifiées :
+  - Version 3 : probabilitée modifiée :
     - Le dés d'un des joueurs a plus de chances de faire un petit resultat          
